@@ -6,32 +6,32 @@
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'rahman.drm21@gmail.com'</initValue>
+      <initValue>''</initValue>
       <name>emailUsr</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'mrdarmawan217'</initValue>
+      <initValue>''</initValue>
       <name>passwordUsr</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'Mandiri'</initValue>
+      <initValue>''</initValue>
       <name>useBank</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'BNI / BNI Syariah'</initValue>
+      <initValue>''</initValue>
       <name>toBank</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'0310836124'</initValue>
+      <initValue>''</initValue>
       <name>noRek</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
-      <initValue>'10000'</initValue>
+      <initValue>''</initValue>
       <name>amount</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
