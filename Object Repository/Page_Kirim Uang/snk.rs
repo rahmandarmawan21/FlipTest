@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>snk</name>
+   <tag></tag>
+   <elementGuidId>257e7abd-42ac-431a-8444-15470e08fb8b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div/div/div/div/div[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>py-4 fs-normal card__body card-body</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jumlah yang ditransfer harus sesuai dengan total transfer yang tertera, sampai 3 (tiga) angka terakhir.Flip tidak akan memproses pengiriman apabila jumlah transfer tidak sesuai total transfer.Untuk pengiriman yang dibatalkan karena kesalahan jumlah transfer atau melewati batas waktu pengiriman, refund membutuhkan waktu paling lambat 1 hari kerja.Kode unik akan disimpan ke dalam deposit akun kamu yang nanti dapat dicairkan saat telah mencapai Rp10.000.Flip tidak akan memproses transaksi yang belum dikonfirmasi dengan menekan tombol &quot;Saya Sudah Transfer&quot;.Transaksi yang dilakukan di luar jam operasional dan/atau sedang menunggu proses (sudah melakukan konfirmasi sudah transfer), tidak bisa dibatalkan.Flip berhak menangguhkan transaksi apabila transaksi dianggap mencurigakan dan/atau memenuhi kriteria pencucian uang yang telah ditetapkan oleh Bank Indonesia.Transaksi dengan tujuan Virtual Account BRI hanya bisa diproses selama metode pembayarannya via transfer, bukan pembayaran. Umumnya akan ada biaya admin dari BRIVA sebesar Rp500-3.500 (disesuaikan dengan potongan yang dikenakan oleh BRI) per transaksi yang akan diambil dari deposit akun Flip Kakak.Flip tidak memiliki hubungan kerjasama dengan pihak pengirim maupun penerima transaksi. Segala hal yang terjadi di antara keduanya, di luar taransaksi mencurigakan, bukan merupakan tanggung jawab Flip.Nama pemiliki rekening yang digunakan untuk transfer ke Flip harus sama dengan nama pemilik akun Flip.Flip tidak bertanggung jawab dengan risiko yang muncul akibat kesalahan nominal transfer atau memilih bank pengirim dana yang tidak sesuai. Risiko yang dimaksud seperti dana yang dikirimkan terpakai untuk transaksi yang dibuat orang lain.Transfer ke rekening Flip dengan menggunakan metode SETOR TUNAI MELALUI TELLER akan diproses setelah 1x24 jam.DENGAN KLIK TOMBOL 'SIAP, SAYA SETUJU' KAMU TELAH SETUJU DENGAN SYARAT &amp; KETENTUAN TRANSFER DI ATASSIAP, SAYA SETUJU</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;main-container transaction false&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;justify-content-md-center row&quot;]/div[@class=&quot;content-container col-xl-6 col-lg-7 col-md-8 col-sm-12 col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;py-4 fs-normal card__body card-body&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div/div/div/div/div[3]/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bukti Transfer'])[1]/following::div[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kirim'])[1]/following::div[3]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div[3]/div</value>
+   </webElementXpaths>
+</WebElementEntity>
