@@ -3,7 +3,7 @@ This project for create automation web base application flip.
 
 ### Getting Started
 Clone this project on my gitHub<br>
-[Clone Project](https://github.com/rahmandarmawan21/quipper.git)
+[Clone Project](https://github.com/rahmandarmawan21/FlipTest.git)
 
 ### Prerequisites
 --Install/download katalon on web please install latest version<br>
