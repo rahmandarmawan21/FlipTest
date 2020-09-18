@@ -37,7 +37,7 @@ Report generate after test suite finish proccess, you can check on Report folder
 --Can see on folder project if you cannot open report on katalon studio
 
 ### Versioning
-test version 0.1
+test version 0.2
  
 
 ### Authors
