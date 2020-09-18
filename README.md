@@ -8,7 +8,7 @@ Clone this project on my gitHub<br>
 ### Prerequisites
 --Install/download katalon on web please install latest version<br>
 --Install java<br>
---Install plugin basic report on katalon store if not installed<br>
+--Install plugin basic report on katalon store if not ready installed<br>
 
 ### Installing
 --Install all prerequisites<br>
